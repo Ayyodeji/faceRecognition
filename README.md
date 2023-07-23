@@ -3,6 +3,7 @@
 ## Description
 
 This project implements a face recognition system using Convolutional Neural Networks (CNNs) and Support Vector Machines (SVMs). The system can detect and recognize faces from input images and classify them based on known subjects.
+The goal was to build an accurate and efficient face recognition solution that could be used in various applications, such as security systems, access control, or personalized user experiences. By combining CNNs for feature extraction and SVMs for classification, the project aimed to achieve high accuracy in identifying individuals from facial images.
 
 ## Repository Structure
 
